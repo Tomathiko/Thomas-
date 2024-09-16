@@ -13,7 +13,17 @@ y contribuir al desarrollo de soluciones tecnológicas innovadoras.
 -  22 años y con ganas de entrar en el mercado laboral.
 
 ## Languages
+ -Frances: Nativo.
+ 
  ![Nacionalidad Nativa](https://github.com/user-attachments/assets/9ece7c27-cea3-4048-bec1-b9c2b778c7d3)
+ 
+ -España:Nativo
+ 
+ ![image](https://github.com/user-attachments/assets/39458410-b4fc-4942-a640-9ba46b3b0b35)
+ 
+ Inglés: Avanzado.
+
+ 
 
 
 ## 🏫 Educación
